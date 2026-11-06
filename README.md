@@ -184,9 +184,9 @@ Some of my learning achievements include:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Minahil-CS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Minahil's GitHub statistics"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Minahil-CS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Statistics"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minahil-CS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Minahil-CS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
 
 <br/>
 
@@ -195,21 +195,20 @@ Some of my learning achievements include:
 </div>
 
 ---
-## 🏆 GitHub Achievements & Trophies
 
-<div align="center">
+## 📊 GitHub Profile Overview
 
-<img src="https://github-profile-trophy.vercel.app/?username=Minahil-CS&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub Profile Trophies"/>
+| Metric | Link / Status |
+| :--- | :--- |
+| **Profile** | [![GitHub Minahil-CS](https://img.shields.io/badge/GitHub-Minahil--CS-181717?style=for-the-badge&logo=github)](https://github.com/Minahil-CS) |
+| **Repositories** | [![Repositories](https://img.shields.io/github/followers/Minahil-CS?label=Followers&style=for-the-badge&color=007ec6)](https://github.com/Minahil-CS?tab=followers) |
 
-</div>
 ---
-## 📈 GitHub Contribution Activity
 
-<div align="center">
+## 🔥 Contribution Streak
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Minahil-CS&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph"/>
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=Minahil-CS&theme=onedark&hide_border=true)
 
-</div>
 ---
 
 ## 🤝 Let's Connect
