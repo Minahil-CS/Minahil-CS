@@ -10,6 +10,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00C9A7&height=230&section=header&text=Minahil%20Fatima&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Cloud%20%7C%20Software%20Development&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Minahil Fatima GitHub profile banner"/>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Minahil-CS&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Minahil-CS?label=Followers&color=blue&style=for-the-badge" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/Minahil-CS?label=Total%20Stars&color=yellow&style=for-the-badge" alt="GitHub Stars"/>
+</p>
+
 <h2>Hi, I'm Minahil Fatima 👋</h2>
 
 ### Computer Science Undergraduate | AI & ML | Cloud Computing | Software Development
@@ -188,6 +194,22 @@ Some of my learning achievements include:
 
 </div>
 
+---
+## 🏆 GitHub Achievements & Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Minahil-CS&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub Profile Trophies"/>
+
+</div>
+---
+## 📈 GitHub Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Minahil-CS&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph"/>
+
+</div>
 ---
 
 ## 🤝 Let's Connect
